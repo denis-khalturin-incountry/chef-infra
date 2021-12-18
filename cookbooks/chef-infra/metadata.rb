@@ -1,0 +1,5 @@
+name 'chef-infra'
+description 'Deploying a Chef Infra HA or Standalone'
+version '1.0.0'
+maintainer 'Denis Khalturin'
+maintainer_email 'dhalturin@hotmail.com'
